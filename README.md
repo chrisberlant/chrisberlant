@@ -1,22 +1,21 @@
 <h1>Hi I'm Chris! I'm a french full-stack (more front-end & React oriented) developer, I work in IT since 2012</h1>
 
 <h2 align="center">My informations</h2>
-<div align="center">
-    <div style="display: flex; flex-direction: column; gap: 16px;">
-        <div style="display: flex; align-items: center; gap: 10px;">
+
+<div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 40px;">
+        <div>
             <img src="./img/linkedin-logo.svg" alt="linkedin logo" height="30" />
             <a href= "https://www.linkedin.com/in/chris-berlant">https://www.linkedin.com/in/chris-berlant</a>
         </div>
-        <div style="display: flex; align-items: center; gap: 10px;">
+        <div>
             <img src="./img/email-logo.svg" alt="email logo" height="30" />
             <a href="mailto:chris.berlant@gmail.com">chris.berlant@gmail.com</a>
         </div>
-        <div style="display: flex; align-items: center; gap: 10px;">
+        <div>
             <img src="./img/github-dark-logo.svg#gh-dark-mode-only" alt="github logo" height="30" />
             <img src="./img/github-light-logo.svg#gh-light-mode-only" alt="github logo" height="30" />
             <a href= "https://chrisberlant.github.io/">Portfolio</a>
         </div>
-    </div>
 </div>
 
 <h2 align="center">My front-end tools</h2>
