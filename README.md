@@ -1,4 +1,6 @@
-<body>
+# Hi I'm Chris! I'm a french full-stack (more front-end & React oriented) developer, I work in IT since 2012
+
+## My informations
 
 <div style="display: flex; flex-direction: column; gap: 16px;">
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -16,6 +18,8 @@
     </div>
 </div>
 
+## My front-end tools
+
 <div style="display: flex; gap: 16px;">
     <img src="./img/typescript-logo.svg" alt="typescript logo" height="40" />
     <img src="./img/html-logo.svg" alt="html logo" height="40" />
@@ -29,6 +33,8 @@
     <img src="./img/mantine-dark-logo.svg#gh-dark-mode-only" alt="mantine logo" height="40" />
 </div>
 
+## My back-end tools
+
 <div style="display: flex; gap: 16px;">
     <img src="./img/typescript-logo.svg" alt="typescript logo" height="40" />
     <img src="./img/nodejs-logo.svg" alt="node logo" height="40" />
@@ -38,6 +44,8 @@
     <img src="./img/sequelize-logo.svg" alt="sequelize logo" height="40" />
 </div>
 
+## My work environment
+
 <div style="display: flex; gap: 16px;">
     <img src="./img/vscode-logo.svg" alt="vscode logo" height="40" />
     <img src="./img/insomnia-logo.svg" alt="insomnia logo" height="40" />
@@ -46,16 +54,22 @@
     <img src="./img/arch-logo.svg" alt="arch linux logo" height="40" />
 </div>
 
+## My other skills
+
 <div style="display: flex; gap: 16px;">
     <img src="./img/accessibility-logo.svg" alt="accessibility logo" height="40" />
     <img src="./img/agile-logo.png" alt="agile methodology logo" height="40" />
     <img src="./img/it-logo.svg" alt="IT logo" height="40" />
 </div>
 
+## I speak
+
 <div style="display: flex; gap: 16px;">
     <img src="./img/french-flag.svg" alt="french flag" height="40" />
     <img src="./img/uk-flag.svg" alt="UK flag" height="40" />
 </div>
+
+## What I want to learn / What I'm learning right now
 
 <div style="display: flex; gap: 16px;">
     <img src="./img/docker-logo.svg" alt="docker logo" height="40" />
@@ -63,8 +77,6 @@
     <img src="./img/japanese-flag.svg" alt="japanese flag" height="40" />
 
 </div>
-
-</body>
 
 <!--
 Here are some ideas to get you started:
