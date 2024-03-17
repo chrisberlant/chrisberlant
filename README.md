@@ -1,4 +1,5 @@
 <body>
+<center>
 <h1>Hi I'm Chris! I'm a french full-stack (more front-end & React oriented) developer, I work in IT since 2012</h1>
 
 <h2 align="center">My informations</h2>
@@ -78,5 +79,5 @@
     <img src="./img/japanese-flag.svg" alt="japanese flag" height="40" />
 
 </div>
-
+</center>
 </body>
