@@ -6,10 +6,10 @@
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 40px;">
         <a href= "https://www.linkedin.com/in/chris-berlant">
-            <img src="https://img.shields.io/badge/my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" height="30" />
-        </a>           
+            <img src="https://img.shields.io/badge/my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+        </a> 
         <a href="mailto:chris.berlant@gmail.com">
-            <img src="https://img.shields.io/badge/send_me_an_email-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="email logo" height="30" />
+            <img src="https://img.shields.io/badge/send_me_an_email-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="email logo" />
         </a>
         <a href="https://chrisberlant.github.io">
             <img src="https://img.shields.io/badge/my_portfolio-%23121011.svg?style=for-the-badge&logo=bookstack&logoColor=white" />
