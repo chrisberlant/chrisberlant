@@ -1,59 +1,91 @@
 <body>
 
-<h1 align="center">Hi I'm Chris! I'm a french full-stack (more front-end & React oriented) developer, I work in IT since 2012</h1>
+<h1 align="center" style="font-size:2rem;">Hi I'm Chris! I'm a french full-stack (more front-end & React oriented) developer, I work in IT since 2012</h1>
 
 <h2 align="center">My informations</h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 40px;">
-        <div>
-            <img src="./img/linkedin-logo.svg" alt="linkedin logo" height="30" />
-            <a href= "https://www.linkedin.com/in/chris-berlant">My LinkedIn profile</a>
-        </div>
-        <div>
-            <img src="./img/email-logo.svg" alt="email logo" height="30" />
-            <a href="mailto:chris.berlant@gmail.com">Send me an email</a>
-        </div>
-        <div>
-            <img src="./img/github-dark-logo.svg#gh-dark-mode-only" alt="github logo" height="30" />
-            <img src="./img/github-light-logo.svg#gh-light-mode-only" alt="github logo" height="30" />
-            <a href= "https://chrisberlant.github.io/">My portfolio webpage</a>
-        </div>
+        <a href= "https://www.linkedin.com/in/chris-berlant">
+            <img src="https://img.shields.io/badge/my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" height="30" />
+        </a>           
+        <a href="mailto:chris.berlant@gmail.com">
+            <img src="https://img.shields.io/badge/send_me_an_email-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="email logo" height="30" />
+        </a>
+        <a href="https://chrisberlant.github.io">
+            <img src="https://img.shields.io/badge/my_portfolio-%23121011.svg?style=for-the-badge&logo=bookstack&logoColor=white" />
+        </a>
 </div>
 
-<h2 align="center">My front-end tools</h2>
+<h2 align="center">My front-end stack</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
-    <img src="./img/typescript-logo.svg" alt="typescript logo" height="40" />
-    <img src="./img/html-logo.svg" alt="html logo" height="40" />
-    <img src="./img/css-logo.svg" alt="css logo" height="40" />
-    <img src="./img/react-logo.svg" alt="react logo" height="40" />
-    <img src="./img/redux-logo.svg" alt="redux logo" height="40" />
-    <img src="./img/tailwind-logo.svg" alt="tailwind logo" height="40" />
-    <img src="./img/tanstack-logo.svg" alt="tanstack react query logo" height="40" />
-    <img src="./img/sass-logo.svg" alt="sass logo" height="40" />
-    <img src="./img/mantine-light-logo.svg#gh-light-mode-only" alt="mantine logo" height="40" />
-    <img src="./img/mantine-dark-logo.svg#gh-dark-mode-only" alt="mantine logo" height="40" />
+    <div>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="tanstack react query logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" alt="mantine logo" />
+    </div>
 </div>
 
-<h2 align="center">My back-end tools</h2>
+<h2 align="center">My back-end stack</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
-    <img src="./img/typescript-logo.svg" alt="typescript logo" height="40" />
-    <img src="./img/nodejs-logo.svg" alt="node logo" height="40" />
-    <img src="./img/sql-logo.svg" alt="sql logo" height="40" />
-    <img src="./img/postgresql-logo.svg" alt="postgresql logo" height="40" />
-    <img src="./img/express-logo.png" alt="express logo" height="40" />
-    <img src="./img/sequelize-logo.svg" alt="sequelize logo" height="40" />
+    <div>
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize logo" />
+    </div>
 </div>
 
 <h2 align="center">My work environment</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
-    <img src="./img/vscode-logo.svg" alt="vscode logo" height="40" />
-    <img src="./img/insomnia-logo.svg" alt="insomnia logo" height="40" />
-    <img src="./img/git-logo.svg" alt="git logo" height="40" />
-    <img src="./img/windows-logo.svg" alt="windows logo" height="40" />
-    <img src="./img/arch-logo.svg" alt="arch linux logo" height="40" />
+    <div>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode logo"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia logo"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows logo" />
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="arch linux logo"/>
+    </div>
+    <div>
+        <img src="./img/docker-logo.svg" alt="docker logo"/>
+    </div>
 </div>
 
 <h2 align="center">My other skills</h2>
@@ -74,10 +106,10 @@
 <h2 align="center">What I want to learn / What I'm learning right now</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
-    <img src="./img/docker-logo.svg" alt="docker logo" height="40" />
-    <img src="./img/react-native-logo.svg" alt="react native logo" height="40" />
+    <div>
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs logo" />
+    </div>
     <img src="./img/japanese-flag.svg" alt="japanese flag" height="40" />
-
 </div>
 
 </body>
