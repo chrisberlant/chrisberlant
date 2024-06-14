@@ -4,21 +4,21 @@
 
 <h2 align="center">My informations</h2>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 40px;">
-        <a href= "https://www.linkedin.com/in/chris-berlant">
+<div align="center" style="display:flex; justify-content:center;">
+        <a href= "https://www.linkedin.com/in/chris-berlant" target="_blank">
             <img src="https://img.shields.io/badge/my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
         </a> 
-        <a href="mailto:chris.berlant@gmail.com">
+        <a href="mailto:chris.berlant@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/send_me_an_email-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="email logo" />
         </a>
-        <a href="https://chrisberlant.github.io">
+        <a href="https://chrisberlant.github.io" target="_blank">
             <img src="https://img.shields.io/badge/my_portfolio-%23121011.svg?style=for-the-badge&logo=bookstack&logoColor=white" />
         </a>
 </div>
 
 <h2 align="center">My front-end stack</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
+<div align="center" style="display: flex; justify-content: center;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html logo" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo" />
